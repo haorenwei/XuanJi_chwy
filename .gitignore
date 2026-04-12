@@ -23,6 +23,7 @@ frontend/.vite/
 # IDE
 .vscode/
 .idea/
+.qoder/
 *.swp
 *.swo
 *~
