@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Conda
+.conda/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Sandbox runtime files
+backend/sandbox/*
+!backend/sandbox/.gitkeep
+
+# Generated tools (track them)
+# backend/app/tools/*.py
+
+# Misc
+*.bak
+*.tmp
+nul
